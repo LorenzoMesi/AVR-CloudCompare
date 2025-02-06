@@ -1,5 +1,9 @@
 # Report on 3D Model Alignment and Merging Using CloudCompare
 
+## Acknoledgements
+
+This project was developed to explore the potential of Gaussian Splatting techniques for cultural heritage preservation, as part of the project exam for the course [Augmented and Virtual Reality](https://corsi.unige.it/off.f/2023/ins/66562) during Master's degree in Computer Engineering - Artifical Intelligence at the University of Genova.
+
 ## Overview
 
 In order to develop our project and reach our goal we used **CloudCompare**, a 3D point cloud and mesh processing software widely used in fields such as engineering, archaeology, and computer vision. The software offers powerful tools for 3D data visualization, manipulation, alignment, and merging. In this project, we utilized CloudCompare to align and merge two models of a statue in **splat** **PLY format**. One model represented the complete statue, while the other simulated a broken version with missing parts.
